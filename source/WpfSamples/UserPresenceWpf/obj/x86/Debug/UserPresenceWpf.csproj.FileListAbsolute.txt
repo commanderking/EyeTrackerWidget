@@ -1,0 +1,63 @@
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.exe.config
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.exe
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\EyeXFramework.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.csprojResolveAssemblyReference.cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\App.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_Content.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_MarkupCompile.cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_MarkupCompile.lref
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\MainWindow.baml
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.g.resources
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.Properties.Resources.resources
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.csproj.GenerateResource.Cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.exe
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.exe.config
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.exe
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.exe
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\EyeXFramework.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.csprojResolveAssemblyReference.cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\App.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_Content.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_MarkupCompile.cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_MarkupCompile.lref
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\MainWindow.baml
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.g.resources
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.Properties.Resources.resources
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples - Copy\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.csproj.GenerateResource.Cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.exe.config
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.exe
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.exe
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\UserPresenceWpf.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\EyeXFramework.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.csprojResolveAssemblyReference.cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\App.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_Content.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_MarkupCompile.cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf_MarkupCompile.lref
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\MainWindow.baml
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.g.resources
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.Properties.Resources.resources
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\EyeTrackerWidget\source\WpfSamples\UserPresenceWpf\obj\x86\Debug\UserPresenceWpf.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\EyeXFramework\bin\x86\Release\EyeXFramework.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\EyeXFramework\bin\x86\Release\EyeXFramework.pdb
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\EyeXFramework\bin\x86\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\EyeXFramework\bin\x86\Release\Tobii.EyeX.Client.Net20.xml
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\EyeXFramework\obj\x86\Release\EyeXFramework.dll
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\EyeXFramework\obj\x86\Release\EyeXFramework.pdb

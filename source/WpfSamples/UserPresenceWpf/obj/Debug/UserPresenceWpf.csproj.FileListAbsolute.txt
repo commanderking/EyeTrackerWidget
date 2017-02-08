@@ -1,0 +1,8 @@
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\bin\Debug\UserPresenceWpf.exe.config
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\Debug\MainWindow.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\Debug\App.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\Debug\UserPresenceWpf_Content.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\Debug\UserPresenceWpf_MarkupCompile.cache
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\Debug\UserPresenceWpf_MarkupCompile.lref
+C:\Users\yaoguais\Documents\Visual Studio 2015\Projects\Tobii Eye Tracker Samples\source\WpfSamples\UserPresenceWpf\obj\Debug\UserPresenceWpf.csprojResolveAssemblyReference.cache

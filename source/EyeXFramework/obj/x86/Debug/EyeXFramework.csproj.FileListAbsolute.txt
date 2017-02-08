@@ -1,0 +1,7 @@
+C:\Users\yaoguais\Documents\.Net Eye Tracker\source\EyeXFramework\bin\x86\Debug\EyeXFramework.dll
+C:\Users\yaoguais\Documents\.Net Eye Tracker\source\EyeXFramework\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\yaoguais\Documents\.Net Eye Tracker\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\yaoguais\Documents\.Net Eye Tracker\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\yaoguais\Documents\.Net Eye Tracker\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\yaoguais\Documents\.Net Eye Tracker\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
+C:\Users\yaoguais\Documents\.Net Eye Tracker\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb
